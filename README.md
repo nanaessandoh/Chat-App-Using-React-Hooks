@@ -14,5 +14,5 @@ Jump straight into the code or read the accompanying step-by-step guide here on 
 
 ## Useful links
 
-* [Tutorial](https://prodocs.cometchat.com/docs)
+* [Tutorial](https://prodocs.cometchat.com/docs/react-native-quick-start)
  
