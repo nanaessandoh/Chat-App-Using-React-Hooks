@@ -9,8 +9,6 @@ SCREENSHOTS
 ![Login](Screenshots/screenshot_1.png)
 ![Chat Interface](Screenshots/screenshot_2.png)
 
-Jump straight into the code or read the accompanying step-by-step guide here on our blog.
-
 
 ## Useful links
 
